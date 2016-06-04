@@ -21,7 +21,7 @@
             padding-top: 50px;
         }
         input, textarea, select {
-            max-width: 280px;
+            max-width: 450px;
         }
     </style>
 
